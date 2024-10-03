@@ -1,0 +1,5 @@
+Name: Cheluskin, Genus: cat
+Name: Dika, Genus: cat
+Name: Viva, Genus: dog
+Name: Vasya, Genus: rabbit
+Name: Sam, Genus: parrot
